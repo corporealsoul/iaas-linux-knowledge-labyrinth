@@ -11,11 +11,11 @@
 
 `[root@rhel-92-04-vagrantbox ~]# subscription-manager list --available --all`
 
-`[root@rhel-92-04-vagrantbox ~]# subscription-manager refresh`
-
 `[root@rhel-92-04-vagrantbox ~]# subscription-manager remove --all`
 
 `[root@rhel-92-04-vagrantbox ~]# subscription-manager unregister`
+
+`[root@rhel-92-04-vagrantbox ~]# subscription-manager refresh`
 
 `[root@rhel-92-04-vagrantbox ~]# subscription-manager clean`
 
@@ -31,6 +31,8 @@
 `[root@rhel-92-04-vagrantbox ~]# sudo subscription-manager repos --enable codeready-builder-for-rhel-9-$(arch)-rpms`
 
 `[root@rhel-92-04-vagrantbox ~]# sudo dnf install https://dl.fedoraproject.org/pub/epel/epel-release-latest-9.noarch.rpm`
+
+`[root@rhel-92-04-vagrantbox ~]# dnf install -y epel-release`
 
 
 ### Update the system,
