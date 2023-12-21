@@ -13,7 +13,7 @@ About Synergists:
 
 Synergists is your bridge to mastering Linux on YouTube. From the fundamentals to advanced administration, I break down complex concepts into bite-sized, engaging tutorials, with a focus on practical applications and real-world examples. Join me on the journey and unlock the full potential of this powerful operating system!
 
-**Subscribe to Synergists:** [[INSERT YouTube channel link here]](https://www.youtube.com/@synergists)
+**Subscribe to Synergists:** [[Synergists]](https://www.youtube.com/@synergists)
 
 Let's embark on this Linux adventure together!
 
