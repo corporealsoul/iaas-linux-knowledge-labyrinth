@@ -204,6 +204,8 @@ sudo apt install htop
 
 `anup@ubuntu-22041:~$ apt list | grep nginx`
 
+`anup@ubuntu-22041:~$ sudo apt-get install build-essential`
+
 <br>
 
 `anup@ubuntu-22041:~$ dpkg --list`
