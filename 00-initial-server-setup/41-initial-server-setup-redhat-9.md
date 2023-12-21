@@ -25,6 +25,14 @@
 
 `[root@rhel-92-04-vagrantbox ~]# subscription-manager attach`
 
+<br>
+
+`[root@rhel-92-04-vagrantbox ~]# subscription-manager status`
+
+`[root@rhel-92-04-vagrantbox ~]# insights-client --version`
+
+`[root@rhel-92-04-vagrantbox ~]# insights-client --register`
+
 
 ### Extra package,
 
